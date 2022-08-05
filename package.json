@@ -1,0 +1,24 @@
+{
+  "name": "asksuite-test",
+  "version": "1.0.0",
+  "description": "Hey! Glad you're here. I'm going to explain exactly what you'll have to implement in this test and what we expect as outcome.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Felippe Freire",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.0",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "puppeteer": "^10.4.0",
+    "x-ray": "^2.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "keywords": []
+}
